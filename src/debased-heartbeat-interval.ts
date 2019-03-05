@@ -1,12 +1,11 @@
 /**
  * debased-heartbeat-interval
- * Interval between ping-pong heartbeats between debased server &amp; clients
+ * Interval between ping-pong heartbeats between debased server & clients
  */
 
 
 /**
- * TODO: document
+ * Default interval in milliseconds between ping/pong heartbeats
+ * between debased server and clients.
  */
-export default function debasedHeartbeatInterval() {
-    // TODO: implement
-}
+export const DEBASED_HEARTBEAT_INTERVAL = 1000 * 60
