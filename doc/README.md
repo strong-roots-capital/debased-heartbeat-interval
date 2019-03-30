@@ -34,7 +34,7 @@ import { DEBASED_HEARTBEAT_INTERVAL } from '@strong-roots-capital/debased-heartb
 
 **● DEBASED_HEARTBEAT_INTERVAL**: *`number`* =  1000 * 60
 
-*Defined in [debased-heartbeat-interval.ts:11](https://github.com/strong-roots-capital/debased-heartbeat-interval/blob/ddf5a4c/src/debased-heartbeat-interval.ts#L11)*
+*Defined in [debased-heartbeat-interval.ts:11](https://github.com/strong-roots-capital/debased-heartbeat-interval/blob/bc9a415/src/debased-heartbeat-interval.ts#L11)*
 
 Default interval in milliseconds between ping/pong heartbeats between debased server and clients.
 
