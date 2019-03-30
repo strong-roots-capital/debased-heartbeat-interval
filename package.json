@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/debased-heartbeat-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interval between ping-pong heartbeats between debased server &amp; clients",
   "main": "dist/debased-heartbeat-interval.js",
   "types": "dist/debased-heartbeat-interval.d.ts",
